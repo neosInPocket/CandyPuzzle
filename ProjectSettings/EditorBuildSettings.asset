@@ -11,4 +11,55 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SidePuzzleScene.unity
     guid: 885c974a34580c74ba7ab2640258d97b
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker.unity
+    guid: fea96556dab1b674e8f82c8c6dc164ec
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 1.unity
+    guid: 515d3d4aab8e41349aeee443ad5f3f1b
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 2.unity
+    guid: 8a548ae6d650d9346be58fa9bab58ab4
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 3.unity
+    guid: 11272aca5e0f08645adee5622173ce3a
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 4.unity
+    guid: 20ad6e26880693e4e91ce864623f3d41
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 5.unity
+    guid: ff302942a9db4b94ca5081a85a5e2d77
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 6.unity
+    guid: 67fa336194ffcfc46a618708150b6a5a
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 7.unity
+    guid: a76e8d8dba03ec4458566e3394e703f7
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 8.unity
+    guid: 99050859f9abe244d9ca21887c8d99b4
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 9.unity
+    guid: 61a903fac6b0a764d948f29d4eb888a4
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 10.unity
+    guid: faf3835619d6e9341badc346275bf286
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 11.unity
+    guid: ffb7badc6a493ea4181b2104e92f17ef
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 12.unity
+    guid: 386ee6e853499064fb41f71bc124051b
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 13.unity
+    guid: 296e23b20a0a86c4c8975aaf50931851
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 14.unity
+    guid: 4762ed9e9c92f9a4a9bb610b7e715136
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 15.unity
+    guid: c329f76b257e466499e30ff0fe12564a
+  - enabled: 1
+    path: Assets/Scenes/PuzzleReworker 16.unity
+    guid: 2bb83da374bf90245b240de5d32e0df6
   m_configObjects: {}

@@ -21,7 +21,7 @@ public class PuzzleGuide : MonoBehaviour
 		PuzzleEnd = puzzleEndBoolAction;
 
 		PlayerTouch.onFingerDown += Lollipop;
-		popupText.text = "WELCOME to puzzle candies, wanderer!";
+		popupText.text = "WELCOME to Sweet-Bonanza: Fruity Escape, wanderer!";
 
 		gameObject.SetActive(true);
 	}
