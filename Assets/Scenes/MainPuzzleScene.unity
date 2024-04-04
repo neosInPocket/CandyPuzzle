@@ -2021,8 +2021,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f925bff49a0a9c44eab1467a319ea1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upgradeName: second update
-  purchaseCost: 95
+  upgradeName: lollipop size
+  purchaseCost: 40
   purchaseStatus: {fileID: 410254365}
   purchaseButton: {fileID: 1244945103}
   purchaseButtonText: {fileID: 1302389832}
@@ -2600,7 +2600,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+  m_Color: {r: 0.77254903, g: 0.77254903, b: 0.77254903, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4790,8 +4790,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f925bff49a0a9c44eab1467a319ea1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upgradeName: first update
-  purchaseCost: 145
+  upgradeName: lollipop spin speed
+  purchaseCost: 50
   purchaseStatus: {fileID: 2040270072}
   purchaseButton: {fileID: 350478006}
   purchaseButtonText: {fileID: 226592848}
@@ -6242,7 +6242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a64d1462da73a941ac17fad96ebf7ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clearPuzzleSaves: 1
+  clearPuzzleSaves: 0
   defaultSave:
     levelProgress: 1
     crowns: 200
